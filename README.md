@@ -1,7 +1,11 @@
 # Telehealth and COVID-19 Analysis
 
-##Purpose/Description:
+## Purpose/Description:
 The purpose of this project is to analyze the impact of the COVID-19 pandemic on the adoption and utilization of telehealth services. By examining trends and patterns in telehealth usage before, during, and after the pandemic, the goal is to gain insights into how healthcare delivery has evolved and identify opportunities for improving telehealth services in the future.
+
+## Project Structure
+- Data Visualization: Visualizes data to understand the disparities in healthcare access across different demographic groups.
+- Analysis: Use models to predict outcomes based on historical data
 
 ## Goals:
 - Understand the trend of telehealth usage over time.
@@ -45,7 +49,18 @@ The analysis highlighted the transformative impact of the COVID-19 pandemic on t
 [Medicare Telemedicine Snapshot](https://analyst-2.ai/analysis/data-gov-medicare-telemedicine-snapshot-8e27/315b429f/?iid=012-873&v=presentation)
 [Data.Gov](https://catalog.data.gov/dataset/medicare-telemedicine-snapshot)
 [CDC](Uhttps://data.cdc.gov/NCHS/Telemedicine-Use-in-the-Last-4-Weeks/h7xa-837u/about_data)
-[Link Text](URL)
+
+## Dependencies
+- pandas
+- numpy
+- matplotlib
+- seaborn
+
+## Contributions
+- Darcy DeBord (DataViz Diva)
+- Desalegn Bekele
+- Robert Rodriguez
+
 
 
 
