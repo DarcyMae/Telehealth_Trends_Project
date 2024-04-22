@@ -48,7 +48,7 @@ The analysis highlighted the transformative impact of the COVID-19 pandemic on t
 [CDC](https://data.cdc.gov/NCHS/Access-and-Use-of-Telemedicine-During-COVID-19/8xy9-ubqz/about_data)
 [Medicare Telemedicine Snapshot](https://analyst-2.ai/analysis/data-gov-medicare-telemedicine-snapshot-8e27/315b429f/?iid=012-873&v=presentation)
 [Data.Gov](https://catalog.data.gov/dataset/medicare-telemedicine-snapshot)
-[CDC](Uhttps://data.cdc.gov/NCHS/Telemedicine-Use-in-the-Last-4-Weeks/h7xa-837u/about_data)
+[CDC](https://data.cdc.gov/NCHS/Telemedicine-Use-in-the-Last-4-Weeks/h7xa-837u/about_data)
 
 ## Dependencies
 - pandas
