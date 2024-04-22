@@ -45,9 +45,12 @@ The purpose of this project is to analyze the impact of the COVID-19 pandemic on
 The analysis highlighted the transformative impact of the COVID-19 pandemic on telehealth adoption and utilization. While challenges remain in ensuring equitable access and addressing technical barriers, telehealth has emerged as a vital tool for delivering healthcare services in a post-pandemic world. Policymakers, healthcare providers, and technology developers must collaborate to harness the full potential of telehealth and integrate it into standard care practices effectively.
 
 ## Links:
-[CDC](https://data.cdc.gov/NCHS/Access-and-Use-of-Telemedicine-During-COVID-19/8xy9-ubqz/about_data)/
-[Medicare Telemedicine Snapshot](https://analyst-2.ai/analysis/data-gov-medicare-telemedicine-snapshot-8e27/315b429f/?iid=012-873&v=presentation)/
-[Data.Gov](https://catalog.data.gov/dataset/medicare-telemedicine-snapshot)/
+[CDC](https://data.cdc.gov/NCHS/Access-and-Use-of-Telemedicine-During-COVID-19/8xy9-ubqz/about_data)
+
+[Medicare Telemedicine Snapshot](https://analyst-2.ai/analysis/data-gov-medicare-telemedicine-snapshot-8e27/315b429f/?iid=012-873&v=presentation)
+
+[Data.Gov](https://catalog.data.gov/dataset/medicare-telemedicine-snapshot)
+
 [CDC](https://data.cdc.gov/NCHS/Telemedicine-Use-in-the-Last-4-Weeks/h7xa-837u/about_data)
 
 ## Dependencies
