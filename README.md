@@ -60,7 +60,7 @@ The analysis highlighted the transformative impact of the COVID-19 pandemic on t
 - seaborn
 
 ## Contributions
-- Darcy DeBord (DataViz Diva)
+- Darcy DeBord 
 - Desalegn Bekele
 - Robert Rodriguez
 
